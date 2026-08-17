@@ -185,21 +185,47 @@ print(new_prediction[0])
 ## Output:
 <img width="567" height="242" alt="image" src="https://github.com/user-attachments/assets/90bd5d8d-c4a3-4263-bbbb-873decfd2e8c" />
 
+
+
 <img width="566" height="250" alt="image" src="https://github.com/user-attachments/assets/54c274c8-438e-49de-939e-11a64105f875" />
+
+
 
 <img width="400" height="310" alt="image" src="https://github.com/user-attachments/assets/c395db50-bb1f-42ec-beb3-2320105a4e33" />
 
+
+
 <img width="600" height="255" alt="image" src="https://github.com/user-attachments/assets/b5896784-cbf3-4097-927a-809571f4264f" />
+
+
 
 <img width="681" height="377" alt="image" src="https://github.com/user-attachments/assets/50407d18-e1e4-4f96-8d86-809a1729405b" />
 
+
+
 <img width="312" height="100" alt="image" src="https://github.com/user-attachments/assets/919f6371-fe30-48ce-b57b-78585f599168" />
+
+
+
+
 
 <img width="302" height="52" alt="image" src="https://github.com/user-attachments/assets/12cb2aac-a0bb-4d45-afc3-ac470cf64ee1" />
 
+
+
+
+
 <img width="597" height="70" alt="image" src="https://github.com/user-attachments/assets/5dad4ba7-5861-4cbd-a2d8-28ab5ff01176" />
 
+
+
+
+
 <img width="481" height="212" alt="image" src="https://github.com/user-attachments/assets/2593c77d-2bb2-4681-b683-4e1089d31297" />
+
+
+
+
 
 <img width="417" height="42" alt="image" src="https://github.com/user-attachments/assets/ea6920cc-7e2d-4579-82d1-5171efdac0e9" />
 
